@@ -3,4 +3,5 @@ Age : 1 Year
 Gender : Male
 Place : Kothrud
 
-Mother India-Pooja
+Mother : Pooja
+Father : Sushant
